@@ -1,10 +1,10 @@
-🧠 Deep Learning Demo (Java + DL4J)
+## 🧠 Deep Learning Demo (Java + DL4J)
 
 A lightweight deep learning demo built in Java using Deeplearning4j (DL4J)
 .
 This project demonstrates how to build, train, and visualize a simple neural network — all within a pure Java environment.
 
-🚀 Features
+# 🚀 Features
 
 ✅ Implements a fully connected neural network using DL4J
 
@@ -16,14 +16,14 @@ This project demonstrates how to build, train, and visualize a simple neural net
 
 💾 Easily extendable for your own CSV or in-memory datasets
 
-🧩 Tech Stack
+# 🧩 Tech Stack
 Component	Description
 Language	Java
 Framework	Deeplearning4j
 Data Pipeline	DataVec
 Visualization	DL4J UI Server
 Build Tool	Maven / Gradle (depending on your setup)
-🧠 How It Works
+# 🧠 How It Works
 
 Loads data — from a CSV file or in-memory collection
 
@@ -35,7 +35,7 @@ Trains the model, tracking progress with StatsListener
 
 Launches the DL4J UI to visualize performance and metrics in real time
 
-🏃‍♂️ Running the Project
+# 🏃‍♂️ Running the Project
 Prerequisites
 
 Make sure you have:
@@ -63,7 +63,7 @@ http://localhost:9000
 
 to view the interactive DL4J Training Dashboard.
 
-🧮 Example Output
+# 🧮 Example Output
 
 During training, the console and UI will display:
 
@@ -73,7 +73,7 @@ Network accuracy and error
 
 Live plots of learning rate, gradients, and parameters
 
-📈 Future Improvements
+# 📈 Future Improvements
 
 Add different activation functions and optimizers
 
